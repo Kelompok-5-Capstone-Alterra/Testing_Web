@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>2dd95c17-97ce-4377-acbd-4844c98c78f3</webElementGuid>
+      <webElementGuid>3400386f-e5d6-4138-a24a-7ed3a0a1b0b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batal</value>
+      <webElementGuid>18d48208-8e86-4098-a580-a8cb9f423fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;modal&quot;]/div[@class=&quot;modalRow&quot;]/div[@class=&quot;modalDelete&quot;]/div[1]/button[2]</value>
+      <webElementGuid>f1aad26d-d73a-42f2-9234-f42ee5a57c8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2dd95c17-97ce-4377-acbd-4844c98c78f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/div[2]/div[2]/section/div/div/div/button[2]</value>
-      <webElementGuid>f50e618e-1323-49df-946a-c14ca782d7b8</webElementGuid>
+      <webElementGuid>beecaabd-7d44-411e-bc38-5b5d1249caf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yakin'])[1]/following::button[1]</value>
-      <webElementGuid>855cedae-55cb-41db-8008-bc971f3dc5e8</webElementGuid>
+      <webElementGuid>21f1e9dc-ab13-477e-ac67-83d3b93bb502</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah anda yakin ingin menghapus agen?'])[1]/following::button[2]</value>
-      <webElementGuid>8961777d-07fb-4d22-adff-0024b1a82596</webElementGuid>
+      <webElementGuid>3f67b881-7331-4b60-9fce-c8dece94786c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agen'])[2]/preceding::button[1]</value>
-      <webElementGuid>c0429c6a-6d36-4f16-a10e-56677669a974</webElementGuid>
+      <webElementGuid>762b7f7c-c79f-465d-b926-cc157e2fbbca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::button[1]</value>
-      <webElementGuid>0af70c2d-27eb-47b4-b835-b4988af1e7f6</webElementGuid>
+      <webElementGuid>6a3c7a95-4753-4e07-bb11-bd299ed06bcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Batal']/parent::*</value>
-      <webElementGuid>321d9eef-604e-48a9-8e1a-cdc7cf6d7009</webElementGuid>
+      <webElementGuid>fc93be53-0959-4860-9b1a-bf563071ebac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>f44623fa-5a96-48f5-90c0-93f3003b8e8e</webElementGuid>
+      <webElementGuid>08f37d04-948a-4a53-a5ab-da3d4b7f5836</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Batal' or . = 'Batal')]</value>
-      <webElementGuid>b4a9adf2-bf94-40c6-aff8-12a97da06f2c</webElementGuid>
+      <webElementGuid>586c2439-aade-498d-a33a-a67871aadf68</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

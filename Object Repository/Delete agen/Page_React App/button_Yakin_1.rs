@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Yakin</name>
+   <name>button_Yakin_1</name>
    <tag></tag>
-   <elementGuidId>c452cb2e-9daf-45e2-a719-b03a6a4a3094</elementGuidId>
+   <elementGuidId>a94dfa8f-a358-43bf-96c7-70cfd076a5b4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -26,15 +26,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id=&quot;root&quot;]/section/div[2]/div[2]/section[1]/div/div/div/button[1]</value>
-      <webElementGuid>5635d2f5-7d2d-45f1-b2a8-007fdbabe807</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>//*[@id=&quot;root&quot;]/section/div[2]/div[2]/section[1]/div/div/div/button[1]</value>
-      <webElementGuid>fc700611-c986-4e01-b306-a16e22fb661c</webElementGuid>
+      <webElementGuid>4b99f1d5-9d68-4fbf-bdbe-6bdfc9c40d34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -42,7 +34,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/section/div[2]/div[2]/section/div/div/div/button</value>
-      <webElementGuid>a5110eb8-f443-424a-9d25-234fe9b1a8cc</webElementGuid>
+      <webElementGuid>9d6f1348-a524-4511-bad9-6c808ff3fc64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,7 +42,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah anda yakin ingin menghapus agen?'])[1]/following::button[1]</value>
-      <webElementGuid>f41bb1a9-faf8-412d-a8ae-54159bc57a26</webElementGuid>
+      <webElementGuid>1515ae4a-5ffe-4d62-a2b5-498998d16c9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +50,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::button[1]</value>
-      <webElementGuid>1590eb01-1c5e-4a7c-9ff2-29fbba40c767</webElementGuid>
+      <webElementGuid>e0596e53-d69d-4650-97d0-82ac9abdd08c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::button[1]</value>
-      <webElementGuid>d6e8d6ff-2074-4df3-af55-c69dcc2f1fc2</webElementGuid>
+      <webElementGuid>102a4266-94b5-406d-b27e-427b17861147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Agen'])[2]/preceding::button[2]</value>
-      <webElementGuid>c2db2b09-ad9a-4f6f-bea7-14e56249ac8a</webElementGuid>
+      <webElementGuid>bb8b7812-eb26-4bd9-b6fb-f11f58b64983</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Yakin']/parent::*</value>
-      <webElementGuid>d435408b-5f1e-4667-b8fc-50faaa458603</webElementGuid>
+      <webElementGuid>d3834ad2-ca97-4c0a-bfbe-53a9fa269e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>bf0d1cf1-9c59-4fa7-baaa-07cfb1012a9d</webElementGuid>
+      <webElementGuid>b7697d96-49be-4f82-a9c9-63de48de46a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Yakin' or . = 'Yakin')]</value>
-      <webElementGuid>d8fc3c58-51b9-4a2b-953c-6431c8a8cec3</webElementGuid>
+      <webElementGuid>240cd448-5e8f-481f-8234-832c4711040d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
